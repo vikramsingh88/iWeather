@@ -1,0 +1,11 @@
+.home {
+    background: color($colors, primary);
+    color : color($colors, light);
+    margin-top: 30px;
+}
+
+.temp {
+    font-size: 90px;
+    text-align: center;
+    font-weight: normal;
+}
